@@ -1,0 +1,23 @@
+i::after{
+    content: of Bangladesh;
+}
+.first:hover{
+    color: darkorange; background-image: linear-gradient(blue,red); font-weight: 500;
+}
+i:hover{color: aqua; font-size: 20px;}
+.second{
+    background-image:linear-gradient(blue,red) ;
+}
+li:first-child{color: teal; font-size: 20px;}
+a:visited{color: fuchsia;}
+h3{background-image:linear-gradient(gold,red
+    );
+display: inline-block; padding: 10px 0; border-radius: 7px;}
+h3:hover{background-image: linear-gradient(aqua,pink);} 
+a:focus{color: palevioletred; font-size: 30px;}
+img{
+    position: relative; right: 25px; bottom: 5px;
+}
+a:hover{
+    color: lawngreen; font-weight: 900; font-size: 40px;
+}
